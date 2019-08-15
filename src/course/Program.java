@@ -12,7 +12,20 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner t = new Scanner(System.in);
 
-	
+
+		System.out.println("Coco é gostoso!");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		/*
 	SimpleDateFormat data1 = new SimpleDateFormat("dd/MM/yyyy");
 	SimpleDateFormat data2 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 	
@@ -31,7 +44,7 @@ public class Program {
    
     System.out.println(minutos);
     System.out.println(month);
-		
+		*/
 		/*
 	       List<Triangle> list = new ArrayList<>();
 	     
